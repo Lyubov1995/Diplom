@@ -1,0 +1,42 @@
+﻿@model WebClients.Models.ForgotDataViewModel
+
+<link rel="stylesheet" href="/Acc/fonts/material-icon/css/iconic.min.css">
+<link rel="stylesheet" href="/Acc/Account.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="/css/Scripts/inputmasks.js"></script>
+<script src="/css/Scripts/Masks.js"></script>
+
+<div style="padding: 50px;">
+    <section class="sign-in">
+        <div class="container">
+            <div class="signin-content">
+                <div class="signin-image">
+                    <figure><img src="/images/site/Auto.jpg" alt="sing up image"></figure>
+                    <a href="@Url.Action("Login", "Account")" class="signup-image-link">Вернуться на страницу авторизации</a>
+                </div>      
+                <div class="signin-form">
+                    <form method="post" class="register-form" id="login-form" asp-controller="Account" asp-route-Forgot="Forgot">
+                            <h2 class="form-title">Восстановление почты</h2>
+                            <div id="modal-placeholder1"></div>
+                            <div id="modDialog1" class="modal fade">
+                                <div id="dialogContent1" class="modal-dialog"></div>
+                            </div>
+                            <div class="form-group">
+                                <label for="pass"><i class="zmdi zmdi-phone"></i></label>
+                                <input asp-for="Phone" class="tel form-control" type="phone" placeholder="Телефон" id="mask-phone" maxlength="18"/>
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="email"><i class="zmdi zmdi-email"></i></label>
+                                <input asp-for="Email" class="form-control" id="Email" type="text" placeholder="Электронная почта" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group form-button">
+                                <input class="btn btn-primary form-control" value="Изменить" type="submit" asp-controller="Account" asp-action="ForgotEmail"/>
+                            </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

@@ -1,0 +1,173 @@
+﻿@model WebClients.Models.BookingModel
+@using DataBase.Models
+
+<link rel="stylesheet" href="~/css/Booking.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="/css/Scripts/inputmasks.js"></script>
+<script src="/css/Scripts/Mask.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+<script src="https://use.fontawesome.com/f1e0bf0cbc.js"></script>
+<script>
+
+    $('body').on('input', '#card-number', function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+    });
+    $('body').on('input', '#card-month', function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+    });
+    $('body').on('input', '#card-cvc', function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+    });
+    $('body').on('input', '#card-year', function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+    });
+    $('body').on('input', '#card-holder', function () {
+        this.value = this.value.replace(/[^a-z\s]/gi, '');
+    });
+    $(document).ready(function () {
+        var cardNumber, cardMonth, cardYear, cardCVC, cardHolder;
+        $('#card-btn').click(function (event) {
+
+            var cardNumber = $('#card-number').val();
+            var expMonth = $('#card-month').val();
+            var expYear = $('#card-year').val();
+            var cardCVC = $('#card-cvc').val();
+            var cardHolder = $('#card-holder').val();
+            event.preventDefault();
+
+            if (!cardNumber || !cardCVC || !cardHolder || !expMonth || !expYear) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Необходимо заполнить все обязательные поля');
+                findEmpty();
+            } 
+            if ( expYear < 25 || expYear > 40) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Год должен быть в диапазоне 25-40');
+                findEmpty();
+            }
+            if (expMonth > 12 ) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Месяц указан некорректно');
+                findEmpty();
+            }
+            if (cardNumber.length < 16 ) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Некорректный ввод номера карты. Номер должен содержать 16 цифр');
+                findEmpty();
+            }
+            if (cardCVC.length < 3) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Некорректный ввод CVC');
+                findEmpty();
+            }
+            if (cardHolder.length < 5) {
+                $('#form-errors').addClass('hidden');
+                $('#form-errors').removeClass('hidden');
+                $('#card-error').text('Некорректный ввод данных о владельце карты. Данные должны быть минимум 5 символов');
+                findEmpty();
+            }
+            else {
+                $('#form-errors').addClass('hidden');
+                $('#form-container').hide();
+                $('#card-btn2').removeClass('hidden');
+            }
+        })
+    });
+</script>
+
+<div>
+    <form method="post" asp-action="Prepayment" asp-controller="Accommodations" asp-route-RoomOnTheFloor="@Model.Room.RoomOnTheFloor" asp-route-DateOfArrival="@Model.SearchModel.DateOfArrival" asp-route-DepartureDate="@Model.SearchModel.DepartureDate" asp-route-CountPeople="@Model.SearchModel.CountPeople" asp-route-CountChildren="@Model.SearchModel.CountChildren" asp-route-Price="@Model.Cost">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>Информация о бронировании</h2><hr>
+                </div>
+            </div>
+        </div> 
+     
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-2">
+                        <div class="row form-group">
+                            <div class="col-md-6">
+                                <label>Дата заезда: @Model.SearchModel.DateOfArrival</label>
+                            </div>
+                            <div class="col-md-6">
+                            <label>Дата выезда: @Model.SearchModel.DepartureDate </label>
+                            </div>
+                        </div>
+                        <div class="row form-group">
+                            <div class="col-md-6">
+                            <label>Количество взрослых: @Model.SearchModel.CountPeople</label>
+                            </div>
+                            <div class="col-md-6">
+                            <label>Количество детей: @Model.SearchModel.CountChildren</label>
+                            </div>
+                        </div>
+                    <div class="row form-group">          
+                        <div class="col-md-6">
+                            <label>Скидка: @Model.Discount %</label>
+                        </div>
+                            <div class="col-md-6">
+                            <label>Итоговая стоимость: @Model.Cost ₽</label>
+                            </div>
+                        </div>
+                    <div id="form-errors" class="hidden">
+                        <i class="fa fa-exclamation-triangle"></i>
+                        <p id="card-error">Card error</p>
+                    </div>
+                    <div class="form-group form-button">
+                        <a style="width:80%" class="btn btn-primary form-control hidden" type="submit" id="card-btn2" href="@Url.Action("Prepayment", "Accommodations", new {DateOfArrival = @Model.SearchModel.DateOfArrival, DepartureDate = @Model.SearchModel.DepartureDate, CountPeople = @Model.SearchModel.CountPeople, CountChildren = @Model.SearchModel.CountChildren, RoomOnTheFloor = @Model.Room.RoomOnTheFloor, Price=Model.Cost, Pay="Yes"})">Завершить предоплату</a>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        <div class="row">
+         <div id="form-container">
+            <div id="card-front">
+                <div id="shadow"></div>
+                <div id="image-container">
+                     <span id="amount">Предоплата: <strong> @Model.Prepayment ₽</strong></span>
+                     <span id="card-image"> </span>
+                </div>
+                <label for="card-number">Номер карты</label>
+                    <input type="text" id="card-number" placeholder="1234 5678 9101 1112" maxlength="16" onkeypress="e">
+
+                <div id="cardholder-container">
+                    <label for="card-holder">Имя владельца карты</label>
+                        <input  type="text" id="card-holder" placeholder="Ivanov Ivan" maxlength="30" />
+                </div>
+                <div id="exp-container">
+                    <label for="card-exp">Срок действия</label>
+                        <input id="card-month" type="text" placeholder="Месяц" maxlength="2">
+                        <input  id="card-year" type="text" placeholder="Год" maxlength="2">
+                </div>
+                 <div id="cvc-container">
+                     <label for="card-cvc"> CVC/CVV</label>
+                        <input  id="card-cvc" placeholder="XXX" type="text" maxlength="3">
+                      <p>Код безопасности</p>
+                 </div>
+            </div>
+           
+            <div id="card-back">
+                 <div id="card-stripe"></div>
+            </div>
+               <input type="text" id="card-token" />
+               <a  type="button"  id="card-btn1" href="@Url.Action("Details", "Accommodations", new {DateOfArrival = @Model.SearchModel.DateOfArrival, DepartureDate = @Model.SearchModel.DepartureDate, CountPeople = @Model.SearchModel.CountPeople, CountChildren = @Model.SearchModel.CountChildren, RoomOnTheFloor = @Model.Room.RoomOnTheFloor})">Отмена</a>
+               <input type="text" id="card-token" />
+                <button type="button" id="card-btn">Оплатить</button>
+               
+            </div>
+      </div>
+   </form>
+</div>
+
+
+
+

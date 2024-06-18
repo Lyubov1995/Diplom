@@ -1,0 +1,336 @@
+﻿@model WebClients.Models.SearchModel
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+<script src="modernizr.custom.05819.js"></script>
+
+
+<aside id="colorlib-hero">
+    <div class="flexslider">
+        <ul class="slides">
+            <li style="background-image: url(/images/site/s_1.jpg);"></li>
+            <li style="background-image: url(/images/site/s_2.jpg);"></li>
+            <li style="background-image: url(/images/site/s_3.jpg);"></li>
+            <li style="background-image: url(/images/site/s_4.jpg);"></li>
+        </ul>
+    </div>
+</aside>
+
+
+<div id="colorlib-reservation">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 search-wrap">
+                <form method="post" class="colorlib-form" asp-action="RoomsIndex" asp-controller="Accommodations">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="date">Дата заезда:</label>
+                                <div class="form-field">
+                                    <input name="DateOfArrival" id="Date1" onchange="updateDate2();" value="@Model.DateOfArrival" asp-for="DateOfArrival" type="date1" class="form-control" required onkeydown="return false">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="date">Дата выезда:</label>
+                                <div class="form-field">
+                                    <input name="DepartureDate" id="Date2" onchange="updateDate2();" value="@Model.DepartureDate" asp-for="DepartureDate" type="date2" class="form-control" required onkeydown="return false">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label for="adults">Взрослые</label>
+                                <div class="form-field">
+                                    <i class="icon icon-arrow-down3"></i>
+                                    <select name="CountPeople" value="@Model.CountPeople" asp-for="CountPeople" id="CCount" class="form-control">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5+</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label for="adults">Дети</label>
+                                <div class="form-field">
+                                    <i class="icon icon-arrow-down3"></i>
+                                    <select name="CountChildren" value="@Model.CountChildren" asp-for="CountChildren" class="form-control">
+                                        <option value="0">0</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5+</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <button class="btn btn-primary btn-block" type="submit" value="Submit">Искать</button>
+                        </div>
+                    </div>
+                </form> 
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="colorlib-services">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 animate-box text-center">
+                <div class="services">
+                    <span class="icon">
+                        <i class="flaticon-reception"></i>
+                    </span>
+                    <h3>Круглосуточная стойка администрации</h3>
+                    <p>Вы можете обращаться к администрации в любое время, и мы попытаемся разрешить все ваши проблемы.</p>
+                </div>
+            </div>
+            <div class="col-md-3 animate-box text-center">
+                <div class="services">
+                    <span class="icon">
+                        <i class="flaticon-herbs"></i>
+                    </span>
+                    <h3>Горячие источники</h3>
+                    <p>Горячие источники - это отличный способ расслабиться и оздоровиться. Они могут помочь снять стресс, улучшить кровообращение и облегчить боль в суставах и мышцах.</p>
+                </div>
+            </div>
+            <div class="col-md-3 animate-box text-center">
+                <div class="services">
+                    <span class="icon">
+                        <i class="flaticon-car"></i>
+                    </span>
+                    <h3>Услуги транспорта</h3>
+                    <p> Услуги транспорта предоставят вам удобный и надежный способ добраться из аэропорта или железнодорожного вокзала до отеля и обратно.</p>
+                </div>
+            </div>
+            <div class="col-md-3 animate-box text-center">
+                <div class="services">
+                    <span class="icon">
+                        <i class="flaticon-cheers"></i>
+                    </span>
+                    <h3>Ресторан и бар</h3>
+                    <p>В нашем рестране вы сможете насладиться изысканными блюдами. </p>
+                    <p>Вина и холодные напитки придутся вам по вкусу!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .owl-carousel .owl-item img {
+        -webkit-backface-visibility: hidden;
+    }
+</style>
+
+
+<div id="colorlib-dining-bar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+                <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+                <h2>Ресторан и бар</h2>
+                <p>Мы предлагаем вам изысканные блюда и напитки в элегантной обстановке. Меню обычно включает широкий выбор блюд интернациональной и местной кухни, приготовленных из свежих и качественных ингредиентов</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="diningbar-flex">
+                <div class="half animate-box">
+                    <ul class="nav nav-tabs text-center" role="tablist">
+                        <li role="presentation" class="active"><a href="#mains" aria-controls="mains" role="tab" data-toggle="tab">Основные блюда</a></li>
+                        <li role="presentation"><a href="#desserts" aria-controls="desserts" role="tab" data-toggle="tab">  Десерты</a></li>
+                        <li role="presentation"><a href="#drinks" aria-controls="drinks" role="tab" data-toggle="tab">  Напитки</a></li>
+                    </ul>
+
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="mains">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <ul class="menu-dish">
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/main_1.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">325.99 ₽</span>
+                                                <h3>Бифштекс с гарниром</h3>
+                                                <p class="cat">Говядина / Картофель / Овощи</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/main_2.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">130.99 ₽</span>
+                                                <h3>Глазунья</h3>
+                                                <p class="cat">Тост / Овощи / Яица</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/main_3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">240.00 ₽</span>
+                                                <h3>Кето завтрак</h3>
+                                                <p class="cat">Блины / Овощи / Мясо</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/main_5.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">320.50 ₽</span>
+                                                <h3>Крем суп Дюбарри</h3>
+                                                <p class="cat">Куриный бульон / Цветная капуста</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane" id="desserts">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <ul class="menu-dish">
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/desert_1.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">239.90 ₽</span>
+                                                <h3>Ягодный пудинг</h3>
+                                                <p class="cat">Ягоды /Виноградный сок / Киви</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/desert_2.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">150.99 ₽</span>
+                                                <h3>Шоколадный мусс</h3>
+                                                <p class="cat">Темный шоколад</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/desert_3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">250.49 ₽</span>
+                                                <h3>Шоколадный чиз</h3>
+                                                <p class="cat">Шоколадный крем /Малиновым конфи</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/desert_4.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">129.90 ₽</span>
+                                                <h3>Муссовые птифур</h3>
+                                                <p class="cat">Шоколад / Апельсиновый крем</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane" id="drinks">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <ul class="menu-dish">
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/drink_1.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">459.90 ₽</span>
+                                                <h3>Пина колада</h3>
+                                                <p class="cat">Ром /Ананасовый сок</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/drink_2.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">549.99 ₽</span>
+                                                <h3>Клубничный мохито</h3>
+                                                <p class="cat">Белый ром / Клубника / Лайм</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/drink_3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">339.99 ₽</span>
+                                                <h3>Клюквенный чай</h3>
+                                                <p class="cat">Клюква / Зеленый чай / Мята</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <figure class="image"><img src="/images/menu/drink_4.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
+                                            <div class="text">
+                                                <span class="price" style="font-family:Popins">149.99 ₽ </span>
+                                                <h3>Чай с чабрецом</h3>
+                                                <p class="cat">Чабрец / Черный чай</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="half diningbar-img" style="background-image: url(/images/menu/cover.jpg);"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="colorlib-testimony">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+                <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+                <h2>Отзывы постоянных клиентов</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 animate-box">
+                <div class="testimony text-center">
+                    <span class="img-user" style="background-image: url(/images/site/Person2.jpg);"></span>
+                    <span class="user">Алина Морозова</span>
+                    <small>Довольный клиент</small>
+                    <blockquote>
+                        <p> Великолепный отдых для души и тела, роскошные виды на горы. Атмосфера комплекса вдохновляет, чтобы возвращаться к вам снова и снова. Желаем вам успехов в развитии своего дела! Обязательно вернемся для посещения бань с купелями! Спасибо вам огромное за великолепные выходные в великолепном месте. Персонал улыбчив, позитивен и очень чуток к своим гостям!😘</p>
+                    </blockquote>
+                </div>
+            </div>
+            <div class="col-md-4 animate-box">
+                <div class="testimony text-center">
+                    <span class="img-user" style="background-image: url(/images/site/person1.jpg);"></span>
+                    <span class="user">Ульяна Ткач</span>
+                    <small>Довольный клиент</small>
+                    <blockquote>
+                        <p>Вот уж действительно счастье. Все в отеле погружает в эту атмосферу- мелочи, детали, декор. Я не встречала отелей с таким количеством продуманностей и приятностей. Даже подставка для книг, и та дизайнерская. В домике идеально чисто, персонал вежлив. Суперский вид на горы. Рядом ручей бежит. Приятным бонусом была горячая джакузи на улице. Смело рекомендую!</p>
+                    </blockquote>
+                </div>
+            </div>
+            <div class="col-md-4 animate-box">
+                <div class="testimony text-center">
+                    <span class="img-user" style="background-image: url(/images/site/Person3.jpg);"></span>
+                    <span class="user">Владислав Шабельник</span>
+                    <small>Довольный клиент</small>
+                    <blockquote>
+                        <p>Место для отдыха шикарное. В номерах идеальная чистота, уборка регулярная. Из окон открываются виды на пейзажи. Хорошее соотношение цены и качества. Персонал вежливый, нам есть с чем сравнивать. При отеле открыт ресторан, блюда вкусные и всегда свежие были. Кто на машине, может бесплатно парковать автомобиль, что тоже удобно. Вернемся сюда еще ни раз.</p>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+                <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+                <h2>Наше месторасположение</h2>
+            </div>
+        </div>
+    </div>
+<div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.785918091545!2d41.17116248494!3d43.54850429660946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40589738564d0195%3A0x2cfe5eff3899a64b!2sMairi%20Park%20Hotel!5e0!3m2!1sru!2sru!4v1713121082225!5m2!1sru!2sru" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

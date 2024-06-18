@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>@ViewData["Title"] ~ Mairi Hotel ~ </title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebClients.styles.css" asp-append-version="true" />
+    <link rel="shortcut icon" type="images/x-icon" href="/2304834.jpg">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js" integrity="sha512-BkBgWiL0N/EFIbLZYGTgbksKG5bS6PtwnWvVk3gccv+KhtK/4wkLxCRGh+kelKiXx7Ey4jfTabLg3AEIPC7ENA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"/>
+    
+    <link rel="stylesheet" href="~/css/Animate.css">
+    <link rel="stylesheet" href="~/css/Slider.css">
+    <link rel="stylesheet" href="~/css/Boom.css">
+    <link rel="stylesheet" href="~/css/icomoon.css">
+    <link rel="stylesheet" href="~/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="~/css/fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="~/css/Dates.css">
+
+    <script src="~/css/Scripts/query.min.js"></script>
+    <script src="~/css/Scripts/query.waypoints.min.js"></script>
+    <script src="~/css/Scripts/query.slider.js"></script>
+    <script src="~/css/Scripts/bootstrap.min.js"></script>
+    <script src="~/css/Scripts/Main.js"></script>
+    <script src="~/css/Scripts/Date.js"></script>
+   
+    @await RenderSectionAsync("Scripts", required: false)
+
+</head>
+<body>
+    <header>
+       
+        <nav class="colorlib-nav" role="navigation"> 
+            <div class="top-menu">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-2">
+                               <img style="height:50px;" src="/images/site/logotip.jpg" alt=" ">
+                        </div>
+                        <div class="col-xs-10 text-right menu-1">
+                            <ul>
+                                <li><a href="@Url.Action("Index", "Home")">Главная</a></li> 
+                                <li><a href="@Url.Action("About", "Home")">О нас</a> </li> 
+                                <li><a href="@Url.Action("SpecialOffers", "Home")">Спецпредложения</a> </li>
+                                <li><a href="@Url.Action("RoomsIndex", "Accommodations")">Номера</a></li>
+                                @if (!User.Identity.IsAuthenticated)
+                                {
+                                    <li><a href="@Url.Action("Login", "Account")">Авторизация</a></li>
+                                    <li><a href="@Url.Action("Register", "Account")">Регистрация</a></li>
+                                }
+                                else
+                                {
+                                    <li><a href="@Url.Action("PersonalAccount", "Account")">Личный кабинет</a></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+            @RenderBody()
+            <footer id="colorlib-footer" role="contentinfo">
+                <div class="container">
+                  <div class="row row-pb-md">
+                      <div class="col-md-3 colorlib-widget">
+                      <h4>Быстрые ссылки</h4>
+                      <p>
+                        <ul class="colorlib-footer-links">
+                            <li><a href="@Url.Action("Index", "Home")">Главная</a></li>
+                            <li><a href="@Url.Action("About", "Home")">О нас</a> </li>
+                            <li><a href="@Url.Action("SpecialOffers", "Home")">Спецпредложения</a> </li>
+                            <li><a href="@Url.Action("RoomsIndex", "Accommodations")">Номера</a></li>
+                            <li><a href="/document/Правила проживания.pdf" target="_ blank">Правила проживания</a></li>
+                                </ul>
+                        </p>
+                    </div>
+                <div class="col-md-5">
+                    <h4>Новости</h4>
+                     <ul class="colorlib-footer-links">
+                        <li>Теперь в нашем отеле доступны услуги SPA и массажа. Для вас - разнообразные обертывания, косметология и разнообразный массаж.</li>
+                        <li>Приглашаем вас отметить День Рождения в Mairi Hotel. Для вас мы предлагаем лучшие условия сервиса и уникальную атмосферу всесезонного природного курорта.</li>
+                        <li>Для вас мы подготовили массу ежедневных активностей на каждый день.</li>
+                     </ul>
+                     </div>
+                        <div class="col-md-3 col-md-push-1">
+                            <h4>Контакты</h4>
+                            <ul class="colorlib-footer-links">
+                        <li><i class="icon-map-pin"></i> Карачаево-Черкесская Республика,Архыз, поселок Романтик,ул. Горная, 13.</li>
+                        <li><i class="icon-phone3"></i> +7-991-131-53-91</li>
+                        <li><i class="icon-chat"></i> www.mairihotel.com</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <p>
+                                <small class="block">"Mairi Hotel" © 2024 Официальный сайт гостиницы  |  Managed by UPRO</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+</body>
+</html>

@@ -1,0 +1,103 @@
+﻿@using DataBase.Models
+
+<link rel="stylesheet" href="/Rooms/Rooms.css">
+<link rel="stylesheet" href="/Rooms/RoomSlider/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/Rooms/RoomSlider/css/style1.css">
+
+<form method="get" asp-controller="Accommodations" asp-route-RoomOnTheFloor="@Model.Room.RoomOnTheFloor" asp-route-DateOfArrival="@Model.SearchModel.DateOfArrival" asp-route-DepartureDate="@Model.SearchModel.DepartureDate" asp-route-CountPeople="@Model.SearchModel.CountPeople" asp-route-CountChildren="@Model.SearchModel.CountChildren" asp-route-Return="Return">
+<div  style="padding: 50px;">
+    <section class="sign-in">
+        <div class="container">
+            <div class="signin-content">
+                <div class="signin-image">
+                    <figure><img class="img" src="@Model.Room.MainPhoto" alt="sing up image"></figure>
+					</div>
+                <div class="signin-form">
+                    <h2 class="form-title">Информация о номере</h2>
+                        <div class="form-group">
+                            <label>Категория: @Model.Room.RoomsCategory.Name</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Описание: @Model.Room.RoomsCategory.Description</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Мах\Мин количество человек: @Model.Room.RoomsCategory.MaxNumberOfPeople \ @Model.Room.RoomsCategory.MinNumberOfPeople</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Стоимость за номер: @Model.RoomPrice.MainPrice ₽ </label>
+                            @if (@Model.Room.RoomsCategory.MaxNumberOfPeople !=1)
+                            {
+                                <label>Уменьшение стоимости при меньшем числе человек на: @Model.RoomPrice.LessPrice ₽ </label>
+                            }
+                        </div>
+                        <div class="text-center">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                if(@Model.Return =="Yes")
+                                {
+                                    <label>Данный номер на эти даты забронирован! Пожалуйста, обновите страницу номеров</label>
+                                }
+                                <a class="btn btn-primary btn-block" type="submit" href="@Url.Action("Prepayment", "Accommodations", new {DateOfArrival = @Model.SearchModel.DateOfArrival, DepartureDate = @Model.SearchModel.DepartureDate, CountPeople = @Model.SearchModel.CountPeople, CountChildren = @Model.SearchModel.CountChildren, RoomOnTheFloor = @Model.Room.RoomOnTheFloor, Price= @Model.RoomPrice.MainPrice })">Забронировать</a>                             
+                            }
+                            else
+                            {
+                                <a class="btn btn-primary btn-block" type="submit" href="@Url.Action("Login", "Account", new {DateOfArrival = @Model.SearchModel.DateOfArrival, DepartureDate = @Model.SearchModel.DepartureDate, CountPeople = @Model.SearchModel.CountPeople, CountChildren = @Model.SearchModel.CountChildren, RoomOnTheFloor = @Model.Room.RoomOnTheFloor, Booking ="Yes"})">Забронировать</a>
+                            }
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<div class="container" style="margin-left:15%">
+    <div class="row" style="height:200px">
+        <div class="col-md-12">
+            <div class="featured-carousel owl-carousel">
+                    @foreach (var photo in Model.Images)
+                    {
+                      <div class="item">
+                         <div class="work">
+                             <div class="img1 d-flex align-items-center justify-content-center rounded" style="background-image: url(@photo.Url);"></div>
+                        </div>
+                      </div>
+                    }
+            </div>
+        </div>
+    </div>
+    </div>
+</form>
+<div>
+    <section >
+        <div class="container" style="margin-bottom:25px;">
+            <div class="signup-content">
+                <div class="signup-form">
+                    <form  class="register-form" id="register-form">
+                        <h2 class="form-title">Услуги и принадлежности</h2>
+                        <div class="form-group">
+                            <label>Бесплатный Wi-Fi</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Телевизор, холодильник, фен, чайник, кондиционер, мини-бар</label> 
+                            <label>Графин, стаканы, бутылка воды</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Банные принадлежности, тапочки, постельное белье</label>
+                        </div>
+                        <div class="form-group">
+                            <label>Уборка в номере раз в 3 дня </label>
+                            <label>Возможность заказа завтрака в номер</label>
+                        </div>
+                    </form>
+                </div>
+                <div>
+                    <figure><img class="img" src="/images/rooms/roomYcl.jpg" alt="sing up image"></figure>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<script src="/Rooms/RoomSlider/js/jquery.min.js"></script>
+<script src="/Rooms/RoomSlider/js/popper.js"></script>
+<script src="/Rooms/RoomSlider/js/bootstrap.min.js"></script>
+<script src="/Rooms/RoomSlider/js/owl.carousel.min.js"></script>
+<script src="/Rooms/RoomSlider/js/main.js"></script>

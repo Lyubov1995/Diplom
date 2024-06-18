@@ -1,0 +1,1713 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebClients.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebClients.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\2304834.jpg",
+      "PackagePath": "staticwebassets\\2304834.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\Account.css",
+      "PackagePath": "staticwebassets\\Acc\\Account.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\css\\iconic.min.css",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\css\\iconic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\Acc\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\style1.css",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\js\\main.js",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Rooms\\RoomSlider\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\Rooms.css",
+      "PackagePath": "staticwebassets\\Rooms\\Rooms.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Animate.css",
+      "PackagePath": "staticwebassets\\css\\Animate.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Booking.css",
+      "PackagePath": "staticwebassets\\css\\Booking.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Boom.css",
+      "PackagePath": "staticwebassets\\css\\Boom.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Dates.css",
+      "PackagePath": "staticwebassets\\css\\Dates.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Date.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\Date.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Main.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\Main.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\Masks.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\css\\Scripts\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\inputmasks.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\inputmasks.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.min.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\query.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.slider.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\query.slider.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.waypoints.min.js",
+      "PackagePath": "staticwebassets\\css\\Scripts\\query.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Slider.css",
+      "PackagePath": "staticwebassets\\css\\Slider.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\base.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\base.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\font.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\font.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\resets.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\resets.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\responsive.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\responsive.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\theme.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\theme.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\flexslider\\variables.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css.map",
+      "PackagePath": "staticwebassets\\css\\site.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\doc.jpg",
+      "PackagePath": "staticwebassets\\doc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\14.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\14.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\26.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\26.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\31.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\31.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\32.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\32.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\33.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\33.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\35.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\35.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\47.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\47.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\88.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\88.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\PDF\\89.pdf",
+      "PackagePath": "staticwebassets\\document\\PDF\\89.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\Правила посещения.docx",
+      "PackagePath": "staticwebassets\\document\\Правила посещения.docx"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\document\\Правила проживания.pdf",
+      "PackagePath": "staticwebassets\\document\\Правила проживания.pdf"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Accessories.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Bathroom.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Bathroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Breakfast.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Breakfast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Family.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Family.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Fruit.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Fruit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\Luxe.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\Luxe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_101.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_102.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_103.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_104.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_105.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_105.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_106.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_108.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_109.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_110.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_111.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_112.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_113.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_114.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_115.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_115.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_116.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_117.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_201.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_202.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_203.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_204.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_205.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_205.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_206.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_206.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_207.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_207.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_208.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_209.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_209.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_210.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_211.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_212.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_213.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_214.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_214.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_215.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_215.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_216.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_217.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_217.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_301.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_302.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_302.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_303.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_304.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_304.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_305.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_305.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_306.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_307.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_308.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_308.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_309.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_310.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_311.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_312.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_313.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_314.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_315.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_316.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a1_317.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a1_317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_101.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_108.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_309.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_310.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_311.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_312.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a2_314.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a2_314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_101.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_102.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_103.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_104.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_105.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_105.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_106.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_107.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_108.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_109.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_110.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_111.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_112.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_113.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_114.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_115.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_115.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_116.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_117.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_201.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_202.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_203.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_204.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_205.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_205.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_206.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_206.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_207.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_207.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_208.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_209.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_209.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_210.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_211.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_212.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_214.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_214.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_215.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_215.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_216.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_217.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_217.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_301.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_302.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_302.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_303.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_304.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_304.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_305.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_305.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_306.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_307.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_308.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_308.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_309.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_310.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_311.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_312.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_313.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_314.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_315.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_316.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\Photo\\a_317.jpg",
+      "PackagePath": "staticwebassets\\images\\Photo\\a_317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\cover.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\cover_img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\cover_img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\desert_1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\desert_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\desert_2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\desert_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\desert_3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\desert_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\desert_4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\desert_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\drink_1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\drink_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\drink_2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\drink_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\drink_3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\drink_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\drink_4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\drink_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\main_1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\main_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\main_2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\main_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\main_3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\main_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\main_4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\main_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\main_5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\main_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\menu\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_101.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_102.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_103.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_104.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_105.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_105.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_106.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_107.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_108.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_109.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_110.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_111.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_112.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_113.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_114.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_115.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_115.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_116.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_117.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_201.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_202.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_203.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_203.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_204.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_205.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_205.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_206.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_206.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_207.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_207.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_208.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_209.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_209.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_210.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_211.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_212.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_213.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_214.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_214.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_215.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_215.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_216.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_217.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_217.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_301.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_302.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_302.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_303.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_304.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_304.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_305.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_305.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_306.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_307.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_308.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_308.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_309.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_310.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_311.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_312.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_313.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_314.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_315.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_316.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\main_317.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\main_317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\rooms\\roomYcl.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms\\roomYcl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\Auto.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\Auto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\Person2.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\Person2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\Person3.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\Person3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\Reg.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\Reg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\SPA.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\SPA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\birthday.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\birthday.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\default-image.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\default-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\fon_room.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\fon_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\icons8-стрелка-24 (1).png",
+      "PackagePath": "staticwebassets\\images\\site\\icons8-стрелка-24 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\icons8-стрелка-24 .png",
+      "PackagePath": "staticwebassets\\images\\site\\icons8-стрелка-24 .png"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\ist1.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\ist1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\istochnic.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\istochnic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\logotip.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\logotip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\parcovka.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\parcovka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\person1.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\pets.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\pets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\room.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\rooms.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\rooms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\s_1.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\s_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\s_2.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\s_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\s_3.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\s_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\s_4.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\s_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\services.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\images\\site\\wedding.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\wedding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\люба\\Documents\\4 курс\\ДИПЛОМ\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebClients.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebClients.props",
+      "PackagePath": "build\\WebClients.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebClients.props",
+      "PackagePath": "buildMultiTargeting\\WebClients.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebClients.props",
+      "PackagePath": "buildTransitive\\WebClients.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

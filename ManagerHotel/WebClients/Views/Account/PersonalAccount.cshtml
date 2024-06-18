@@ -1,0 +1,82 @@
+﻿@using DataBase.Models
+@model WebClients.Models.PersonalAccModel
+@using static WebClients.Models.FilterSortPagingApp
+@addTagHelper *, WebClients
+
+<div class="container1">
+   <div class="perconal-input">
+      @if (User.Identity.IsAuthenticated)
+      {
+         <form method="post" asp-action="PersonalAccount" asp-controller="Account">
+             <h3>
+                 Личные данные <a class="btn" type="submit" href="@Url.Action("PersonalDataEdit", "Account", new {Name=@Model.User.Name, Email = Model.User.Email, Phone = Model.User.Phone, Id=@Model.User.Id})"> <i class="bi bi-pencil-fill"></i></a>
+             </h3>
+              <div class="form-group">
+                   <label >Имя: @Model.User.Name</label>
+              </div>
+              <div class="form-group">
+                    <label align="center">Email: @Model.User.Email</label>
+              </div>
+              <div class="form-group">
+                  <label align="center">Телефон: @Model.User.Phone</label>
+              </div>
+              <div class="form-group">
+                   <label> Пароль: ***** </label>
+              </div>
+              <div class="form-group">
+                 <label align="center">Скидка: @Model.User.Discount</label>
+              </div>
+                <div id="modDialog1" class="modal fade">
+                    <div id="dialogContent1" class="modal-dialog"></div>
+                </div>
+                <div id="modal-placeholder1"></div>
+                <input class="btn btn-primary" type="submit" asp-controller="Account" asp-action="Logout" value="Выход" style="width:65%"/>
+         </form>
+      }
+   </div>
+        <div class="perconal-data">
+            <div class="current-perconal">
+                <div class="details">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr class="table-light">
+                                <th scope="col">Номер</th>
+                                <th scope="col">Дата брони</th>
+                                <th scope="col">Дата заезда</th>
+                                <th scope="col">Дата выезда</th>
+                                <th scope="col">Взрослые</th>
+                                <th scope="col">Дети</th>
+                                <th scope="col">Стоимость</th>
+                                <th scope="col">Чек</th>
+                                <th scope="col">Статус брони</th>
+                                <th scope="col"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Employment)
+                            {
+                                <tr class="table-secondary">
+                                    <td>@item.Rooms.RoomsCategory.Name</td>
+                                    <td>@item.BookingDate.ToString("dd.MM.yyyy")</td>
+                                    <td>@item.DateOfArrival.ToString("dd.MM.yyyy")</td>
+                                    <td>@item.DepartureDate.ToString("dd.MM.yyyy")</td>
+                                    <td>@item.NumberOfPeople</td>
+                                    <td>@item.NumberOfChildren</td>
+                                    <td>@item.Cost</td>
+                                <td><a href="/document/PDF/@item.Cheque" download="@item.Cheque">@item.Cheque</a></td>
+                                     <td>@item.Status.Name</td>
+                                    @if (@item.StatusId ==1)
+                                    {
+                                      <td>
+                                        <a asp-controller="Account" asp-action="BookingEdit" asp-route-Id="@item.Id" class="btn">Отменить</a>
+                                      </td>  
+                                    }
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                 <page-link page-model="Model.PageViewModel" page-action="PersonalAccount"></page-link>
+                </div>
+            </div>
+        </div>
+</div>

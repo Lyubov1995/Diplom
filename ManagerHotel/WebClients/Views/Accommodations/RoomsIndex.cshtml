@@ -1,0 +1,135 @@
+﻿@using DataBase.Models
+@using Microsoft.AspNetCore.Components
+@using static WebClients.Models.FilterSortPagingApp
+@model SearchModel
+@addTagHelper *, WebClients
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+<div>
+   <aside id="colorlib-hero">
+     <div class="flexslider">
+        <ul class="slides">
+           <li style="background-image: url(/images/site/rooms.jpg); height:470px;"> 
+             <div class="overlay"></div>
+               <div class="container-fluid">
+                  <div class="row">
+                     <div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+                        <div class="slider-text-inner text-center">
+                            <h2 style="font-size:70px; margin-top:-120px; margin-left:-80px">Номера и цены</h2>
+                            <h1 style="font-size:150px; margin-top:-50px; margin-left:-80px">Размещение</h1>
+                            <h2 style="font-size:60px; margin-top:-50px;">в отеле "Mairi Hotel"</h2>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </li>
+        </ul>
+     </div>
+   </aside>
+   <form method="post" class="colorlib-form" asp-controller="Accommodations">
+             <div id="colorlib-reservation">
+          <div class="container">
+             <div class="row">
+                  <div class="col-md-12 search-wrap">
+                     <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="date">Дата заезда:</label>
+                                <div class="form-field">
+                                     <input asp-for="DateOfArrival" value="@Model.DateOfArrival" type="date1" id="Date1" onchange="updateDate2();" class="form-control" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                             <div class="form-group">
+                                <label for="date">Дата выезда:</label>
+                                 <div class="form-field">
+                                      <input asp-for="DepartureDate" value="@Model.DepartureDate" type="date1" id="Date2" onchange="updateDate2();" class="form-control" required>
+                                 </div>
+                             </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label for="adults">Взрослые</label>
+                                <div class="form-field">
+                                   <i class="icon icon-arrow-down3"></i>
+                                   <select name="CountPeople" value="@Model.CountPeople" asp-for="CountPeople" id="CCount" class="form-control">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5+</option>
+                                   </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <label for="adults">Дети</label>
+                                <div class="form-field">
+                                <i class="icon icon-arrow-down3"></i>
+                                <select name="CountChildren" value="@Model.CountChildren" asp-for="CountChildren" class="form-control">
+                                <option value="0">0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5+</option>
+                                </select>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-md-2">
+                                <button class="btn btn-primary btn-block" type="submit" asp-action="RoomsIndex" value="RoomsIndex">Искать</button>
+                         </div>
+                     </div>
+                  </div>
+             </div>
+          </div>
+      </div>
+
+          <div class="container">
+             <div class="row">
+                  <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2 class="form-title">Номера</h2><hr>
+                  </div>
+                  <div class="col-md-6 col-md-offset-0">  
+                        <form method="get">
+                            <label style="color:black"><strong>Цена:</strong> </label>
+                            <select name="Cost" value="@Model.Cost" asp-for="Cost">
+                                <option value="0">В разброс</option>
+                                <option value="1">По возрастанию</option>
+                                <option value="2">По убыванию</option>
+                            </select>
+                            <label style="color:black"><strong>Категория: </strong></label>
+                            <select name="Id" asp-items="Model.indexModel.FilterViewModel.Category"></select>
+                            <input value="Фильтр" type="submit" asp-controller="Accommodations" asp-action="RoomsIndex"  />
+                        </form>
+                  </div>
+             </div>
+          </div>
+          <div class="container">
+             <div class="row">
+                @foreach (var room in Model.indexModel.Room)
+                {
+                   @foreach (var v in Model.indexModel.RoomPrice.Where(x => x.IdCategory == room.CategoryId))
+                   {
+                      <div class="col-md-4">
+                          <div class="testimony1 text-center">
+                                <span class="img-user" style="background-image: url(@room.MainPhoto);"></span>
+                                <span class="user">Номер "@room.RoomsCategory.Name"</span>
+                                <h3>
+                                    <span style="color:blue; font-family:Popins"> @v.MainPrice ₽</span>
+                                    <span class="per"> / сутки</span>
+                                </h3>
+                                <a class="btn btn-primary btn-block" target="_ blank" type="submit" href="@Url.Action("Details", "Accommodations", new {DateOfArrival = @Model.DateOfArrival, DepartureDate = @Model.DepartureDate, CountPeople = @Model.CountPeople, CountChildren = @Model.CountChildren, RoomOnTheFloor = @room.RoomOnTheFloor})">Подробнее</a>
+                          </div>
+                      </div>
+                   }
+                }
+             </div>
+          </div>
+            <page-link page-model="Model.indexModel.PageViewModel" page-action="RoomsIndex" page-url-Id="Model.indexModel.FilterViewModel.SelectedCategory" page-url-DateOfArrival="@Model.DateOfArrival" page-url-DepartureDate="@Model.DepartureDate" page-url-Cost="@Model.Cost" page-url-CountPeople="@Model.CountPeople"  page-url-CountChildren="@Model.CountChildren"></page-link>
+    </form>
+</div>

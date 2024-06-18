@@ -1,0 +1,163 @@
+﻿@font-face {
+    font-family: Material-Design-Iconic-Font;
+    src: url(../fonts/Material-Design-Iconic-Font.woff2?v=2.2.0) format('woff2'),url(../fonts/Material-Design-Iconic-Font.woff?v=2.2.0) format('woff'),url(../fonts/Material-Design-Iconic-Font.ttf?v=2.2.0) format('truetype')
+}
+
+.zmdi {
+    display: inline-block;
+    font: normal normal normal 14px/1 'Material-Design-Iconic-Font';
+    font-size: inherit;
+    text-rendering: auto;
+    margin-left:5px;
+    margin-bottom:11.7px;
+}
+
+.zmdi-phone-bluetooth:before {
+    content: '\f2b3'
+}
+
+.zmdi-phone-end:before {
+    content: '\f2b4'
+}
+
+.zmdi-phone-forwarded:before {
+    content: '\f2b5'
+}
+
+.zmdi-phone-in-talk:before {
+    content: '\f2b6'
+}
+
+.zmdi-phone-locked:before {
+    content: '\f2b7'
+}
+
+.zmdi-phone-missed:before {
+    content: '\f2b8'
+}
+
+.zmdi-phone-msg:before {
+    content: '\f2b9'
+}
+
+.zmdi-phone-paused:before {
+    content: '\f2ba'
+}
+
+.zmdi-phone-ring:before {
+    content: '\f2bb'
+}
+
+.zmdi-phone-setting:before {
+    content: '\f2bc'
+}
+
+.zmdi-phone-sip:before {
+    content: '\f2bd'
+}
+
+.zmdi-phone:before {
+    content: '\f2be'
+}
+
+.zmdi-account-add:before {
+    content: '\f1ff'
+}
+
+.zmdi-account-box-mail:before {
+    content: '\f200'
+}
+
+.zmdi-account-box-o:before {
+    content: '\f201'
+}
+
+.zmdi-account-box-phone:before {
+    content: '\f202'
+}
+
+.zmdi-account-box:before {
+    content: '\f203'
+}
+
+.zmdi-account-calendar:before {
+    content: '\f204'
+}
+
+.zmdi-account-circle:before {
+    content: '\f205'
+}
+
+.zmdi-account-o:before {
+    content: '\f206'
+}
+
+.zmdi-account:before {
+    content: '\f207'
+}
+
+.zmdi-accounts-add:before {
+    content: '\f208'
+}
+
+.zmdi-accounts-alt:before {
+    content: '\f209'
+}
+
+.zmdi-accounts-list-alt:before {
+    content: '\f20a'
+}
+
+.zmdi-accounts-list:before {
+    content: '\f20b'
+}
+
+.zmdi-accounts-outline:before {
+    content: '\f20c'
+}
+
+.zmdi-accounts:before {
+    content: '\f20d'
+}
+
+.zmdi-email-open:before {
+    content: '\f159'
+}
+
+.zmdi-email:before {
+    content: '\f15a'
+}
+
+.zmdi-lock-open:before {
+    content: '\f18f'
+}
+
+.zmdi-lock-outline:before {
+    content: '\f190'
+}
+
+.zmdi-lock:before {
+    content: '\f191'
+}
+
+.zmdi-mail-reply-all:before {
+    content: '\f192'
+}
+
+.zmdi-mail-reply:before {
+    content: '\f193'
+}
+
+.zmdi-mail-send:before {
+    content: '\f194'
+}
+
+.zmdi-mall:before {
+    content: '\f195'
+}
+
+
+.zmdi-pin-account:before {
+    content: '\f1a6'
+}
+

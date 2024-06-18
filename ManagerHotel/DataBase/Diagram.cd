@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataBase.Models.Accommodation">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAgAAAIEAAAAwABAAQAAAAgAAAIABEAAA=</HashCode>
+      <FileName>Models\Accommodation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Employee">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACIAACAAAAAAAAAAAAQABgAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Employment">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAOAAIAEIAAAAAQCBgCAAAAAAIAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Employment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Habitation">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACCCAWAAAAAAAAAIAAAAgCAAAAAAAAAACAAAIAAAA=</HashCode>
+      <FileName>Models\Habitation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Images">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Images.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Roles">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Roles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.RoomPrice">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAACCAAAAAAAAAAQAAAAAAAAACAA=</HashCode>
+      <FileName>Models\RoomPrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Rooms">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgAAAAACAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Rooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.RoomsCategory">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABgAAAAAAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RoomsCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Status">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.Models.Users">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAACAAAAAAAAAAAAQAAgAAAAACAgAAIAAAAAA=</HashCode>
+      <FileName>Models\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

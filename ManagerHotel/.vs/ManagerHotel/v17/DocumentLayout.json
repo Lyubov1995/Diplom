@@ -1,0 +1,1061 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\accommodations\\prepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\accommodations\\prepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\accommodations\\roomsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\accommodations\\roomsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\masks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\masks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\inputmasks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\inputmasks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\date.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\date.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\accommodations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\accommodations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\personaldataedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\personaldataedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\controllers\\accommodationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\controllers\\accommodationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\forgotemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\forgotemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\account\\personalaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\account\\personalaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\models\\accommodationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\models\\accommodationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\dates.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\dates.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\home\\specialoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\home\\specialoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\query.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\query.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\masks.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\masks.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\models\\filtersortpagingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\models\\filtersortpagingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\taghelpers\\templategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\taghelpers\\templategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\taghelpers\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\webclients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\webclients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\booking.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\booking.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\webclients\\diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\query.slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\query.slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\booking.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\booking.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\boom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\boom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\rooms\\roomslider\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\rooms\\roomslider\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\acc\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\acc\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\icomoon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\icomoon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\bootstrap-datepicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\bootstrap-datepicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\scripts\\query.waypoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\scripts\\query.waypoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\rooms\\rooms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\rooms\\rooms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\rooms\\roomslider\\css\\style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\rooms\\roomslider\\css\\style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\slider.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\css\\site.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\css\\site.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|c:\\users\\\u043B\u044E\u0431\u0430\\documents\\4 \u043A\u0443\u0440\u0441\\\u0434\u0438\u043F\u043B\u043E\u043C\\managerhotel\\managerhotel\\webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F13B30B-F294-4815-9389-593A18D1FA12}|WebClients\\WebClients.csproj|solutionrelative:webclients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 212,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Date.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\Date.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Date.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\Date.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T17:21:24.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Masks.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T08:39:03.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Masks.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\Masks.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T08:38:34.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpecialOffers.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\SpecialOffers.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Home\\SpecialOffers.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\SpecialOffers.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Home\\SpecialOffers.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:37:33.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inputmasks.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\inputmasks.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\inputmasks.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\inputmasks.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\inputmasks.js",
+              "ViewState": "AQIAAG4LAAAAAAAAAAAAwO8LAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-02T14:55:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonalDataEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\PersonalDataEdit.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\PersonalDataEdit.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\PersonalDataEdit.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\PersonalDataEdit.cshtml",
+              "ViewState": "AQIAAA4AAAAAgZmZmVkqwCAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T15:56:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\ForgotEmail.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\ForgotEmail.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\ForgotEmail.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\ForgotEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:25:55.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T14:48:44.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Booking.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Booking.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Booking.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Booking.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Booking.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T15:43:35.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Booking.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Booking.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Booking.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Booking.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Booking.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T15:43:08.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Boom.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Boom.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Boom.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Boom.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Boom.css",
+              "ViewState": "AQIAAKkZAAAAAAAAAAAwwMsZAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T10:37:01.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TemplateGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\TagHelpers\\TemplateGenerator.cs",
+              "RelativeDocumentMoniker": "WebClients\\TagHelpers\\TemplateGenerator.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\TagHelpers\\TemplateGenerator.cs",
+              "RelativeToolTip": "WebClients\\TagHelpers\\TemplateGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:10:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Diagram.cd",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Diagram.cd",
+              "RelativeDocumentMoniker": "WebClients\\Diagram.cd",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Diagram.cd",
+              "RelativeToolTip": "WebClients\\Diagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-26T15:04:08.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccommodationModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\AccommodationModel.cs",
+              "RelativeDocumentMoniker": "WebClients\\Models\\AccommodationModel.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\AccommodationModel.cs",
+              "RelativeToolTip": "WebClients\\Models\\AccommodationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:00:03.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Account.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\Account.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\Acc\\Account.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Acc\\Account.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\Acc\\Account.css",
+              "ViewState": "AQIAAHEBAAAAAAAAAADwv48BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T17:07:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebClients\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebClients\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBpwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T18:29:42.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WebClients.csproj",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\WebClients.csproj",
+              "RelativeDocumentMoniker": "WebClients\\WebClients.csproj",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\WebClients.csproj",
+              "RelativeToolTip": "WebClients\\WebClients.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T18:29:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prepayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\Prepayment.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Accommodations\\Prepayment.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\Prepayment.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Accommodations\\Prepayment.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T12:41:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dates.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Dates.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Dates.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Dates.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Dates.css",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAcwFgBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T05:33:48.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebClients\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebClients\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAADALTMzM3MwwEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:21:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Program.cs",
+              "RelativeDocumentMoniker": "WebClients\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Program.cs",
+              "RelativeToolTip": "WebClients\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:16:48.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebClients\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebClients\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:00:01.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Web.config",
+              "RelativeDocumentMoniker": "WebClients\\Web.config",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Web.config",
+              "RelativeToolTip": "WebClients\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-06T17:59:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebClients\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\appsettings.Development.json",
+              "RelativeToolTip": "WebClients\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T17:59:39.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebClients\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T17:59:04.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:58:41.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:58:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:58:38.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "WebClients\\Models\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\BookingModel.cs",
+              "RelativeToolTip": "WebClients\\Models\\BookingModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:21.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\bootstrap.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-29T20:32:56.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonalAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\PersonalAccount.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\PersonalAccount.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\PersonalAccount.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\PersonalAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T20:21:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "site.css.map",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css.map",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\site.css.map",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css.map",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\site.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-29T19:42:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebClients\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebClients\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:43:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:42:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "owl.carousel.min.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\owl.carousel.min.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\owl.carousel.min.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\owl.carousel.min.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\owl.carousel.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T14:46:07.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "style1.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\style1.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\style1.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\style1.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\Rooms\\RoomSlider\\css\\style1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T14:31:46.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Rooms.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\Rooms.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\Rooms\\Rooms.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\Rooms\\Rooms.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\Rooms\\Rooms.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T13:47:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\TagHelpers\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "WebClients\\TagHelpers\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\TagHelpers\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "WebClients\\TagHelpers\\PageLinkTagHelper.cs",
+              "ViewState": "AQIAACwAAAAAZWZmZiYrwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:18:13.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FilterSortPagingApp.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\FilterSortPagingApp.cs",
+              "RelativeDocumentMoniker": "WebClients\\Models\\FilterSortPagingApp.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\FilterSortPagingApp.cs",
+              "RelativeToolTip": "WebClients\\Models\\FilterSortPagingApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:07:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "WebClients\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "WebClients\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwEUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:07:49.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAAIoAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T19:02:23.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Main.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Main.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\Main.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\Main.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\Main.js",
+              "ViewState": "AQIAAIQAAAAAAAAAAADgv40AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T18:16:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "query.waypoints.min.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.waypoints.min.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\query.waypoints.min.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.waypoints.min.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\query.waypoints.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T18:13:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "query.slider.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.slider.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\query.slider.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.slider.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\query.slider.js",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAIwHsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T18:12:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:25:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\appsettings.json",
+              "RelativeDocumentMoniker": "WebClients\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\appsettings.json",
+              "RelativeToolTip": "WebClients\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T14:35:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "query.min.js",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.min.js",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Scripts\\query.min.js",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Scripts\\query.min.js",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Scripts\\query.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T13:34:51.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Animate.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Animate.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Animate.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Animate.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Animate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T13:34:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "bootstrap-datepicker.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\bootstrap-datepicker.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\bootstrap-datepicker.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\bootstrap-datepicker.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\bootstrap-datepicker.css",
+              "ViewState": "AQIAAJMAAAAAAAAAACBjwLEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T13:34:42.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Slider.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Slider.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\Slider.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\Slider.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\Slider.css",
+              "ViewState": "AQIAAOQAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T13:33:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "icomoon.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\icomoon.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\icomoon.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\icomoon.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\icomoon.css",
+              "ViewState": "AQIAAMwBAAAAAAAAAAAswN0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T13:32:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T07:09:42.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AQIAAEsAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T07:08:05.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAIwBAAAAAAAAAIBZwGYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T07:08:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAYAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T07:08:00.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T07:07:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T05:52:39.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebClients\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebClients\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T05:48:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA4AAACQ8f///38pwBIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:07:36.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Accommodations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\Details.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Accommodations\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:58:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAABgZmZmZiYwwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:49:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:49:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:49:46.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccommodationsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\AccommodationsController.cs",
+              "RelativeDocumentMoniker": "WebClients\\Controllers\\AccommodationsController.cs",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Controllers\\AccommodationsController.cs",
+              "RelativeToolTip": "WebClients\\Controllers\\AccommodationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAAJAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:49:20.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomsIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\RoomsIndex.cshtml",
+              "RelativeDocumentMoniker": "WebClients\\Views\\Accommodations\\RoomsIndex.cshtml",
+              "ToolTip": "C:\\Users\\\u043B\u044E\u0431\u0430\\Documents\\4 \u043A\u0443\u0440\u0441\\\u0414\u0418\u041F\u041B\u041E\u041C\\ManagerHotel\\ManagerHotel\\WebClients\\Views\\Accommodations\\RoomsIndex.cshtml",
+              "RelativeToolTip": "WebClients\\Views\\Accommodations\\RoomsIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T19:49:04.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

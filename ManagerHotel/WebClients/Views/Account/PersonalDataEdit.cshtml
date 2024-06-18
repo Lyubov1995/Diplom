@@ -1,0 +1,70 @@
+﻿@model WebClients.Models.EditViewModel
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="/css/Scripts/inputmasks.js"></script>
+<script src="/css/Scripts/Masks.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 text-center">
+            <h2>Обновление данных</h2><hr>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <form method="POST" asp-action="PersonalDataEdit" asp-controller="Account">
+                <div class="row form-group">
+                    <div class="col-md-6">
+                        <label>Имя</label>
+                        <input asp-for="Name" class="form-control" id="register">
+                        <span asp-validation-for="Name" class="text-danger" maxlength="30"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Телефон</label>
+                        <input asp-for="Phone" class="tel form-control" type="phone" id="mask-phone" style="height:50px" maxlength="18" />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row form-group">
+                    <div class="col-md-6">
+                        <label>Email</label>
+                        <input asp-for="Email" class="form-control" id="Email" type="text" maxlength="30" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Пароль</label>
+                        <input class="form-control" value="*********" readonly style="height:50px" />
+                    </div>
+                </div>
+                <div class="row form-group">
+                    <div class="col-md-6">
+                        <label>Новый пароль</label>
+                        <input asp-for="NewPassword" class="form-control" id="password-input3" type="password" maxlength="17" />
+                                 <a href="#" class="password-control3">Показать пароль</a>
+                        <span asp-validation-for="NewPassword" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label>Повторить пароль</label>
+                        <input asp-for="ConfirmPassword" class="form-control" type="password" id="password-input4" maxlength="17"/>
+                        <a href="#" class="password-control4">Показать пароль</a>
+                        <span asp-validation-for="ConfirmPassword"></span>
+                    </div>
+                </div>
+                <div class="row form-group">
+                    <div class="col-md-6">
+                        <input type="submit" value="Изменить" class="btn btn-success form-control">
+                    </div>
+                     </form>
+                    <div class="col-md-6">
+                <a style="width:100%; text-decoration: none;" href="@Url.Action("PersonalAccount", "Account")" class="btn btn-primary form-control">Отменить</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
